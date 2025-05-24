@@ -1,4 +1,4 @@
-Weather App 🌤
+Weather App
 
 A beautiful, responsive weather application built with React that provides real-time weather information for any city worldwide. Features dynamic backgrounds that change based on weather conditions and a clean, modern glassmorphism design.
 
