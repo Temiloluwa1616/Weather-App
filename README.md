@@ -37,7 +37,7 @@ Before running the application, make sure you have:
  Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Temiloluwa1616/weather-app.git
    cd weather-app
 
 2. Install dependencies
